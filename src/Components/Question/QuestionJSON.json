@@ -1,0 +1,59 @@
+[
+    {
+       "name":"What is food insecurity?",
+       "id":"what",
+       "description":"The state of being without reliable access to a sufficient quantity of affordable, nutritious food.",
+       "resources":[
+          {
+             "name":"SNAP Something1",
+             "id":"url-parameters",
+             "description":"URL parameters are parameters whose values are set dynamically in a page's URL. This allows a route to render the same component while passing that component the dynamic portion of the URL so it can change based off of it.",
+             "url":"https://www.google.com/"
+          },
+          {
+             "name":"SNAP Something Else1",
+             "id":"programmatically-navigate",
+             "description":"When building an app with React Router, eventually you'll run into the question of navigating programmatically. The goal of this post is to break down the correct approaches to programmatically navigating with React Router.",
+             "url":"https://www.google.com/"
+          }
+       ]
+    },
+    {
+       "name":"Who is food insecure?",
+       "id":"who",
+       "description":"A JavaScript library for building user interfaces",
+       "resources":[
+          {
+             "name":"SNAP Something2",
+             "id":"react-lifecycle",
+             "description":"React Lifecycle events allow you to tie into specific phases of a component's life cycle",
+             "url":"https://www.google.com/"
+          },
+          {
+             "name":"SNAP Something Else2",
+             "id":"react-aha",
+             "description":"A collection of 'Aha' moments while learning React.",
+             "url":"https://www.google.com/"
+          }
+       ]
+    },
+    {
+       "name":"Where does food insecurity occur?",
+       "id":"where",
+       "description":"In computer science, functional programming is a programming paradigm—a style of building the structure and elements of computer programs—that treats computation as the evaluation of mathematical functions and avoids changing-state and mutable data.",
+       "resources":[
+          {
+             "name":"SNAP Something3",
+             "id":"imperative-declarative",
+             "description":"A guide to understanding the difference between Imperative and Declarative programming.",
+             "url":"https://www.google.com/"
+          },
+          {
+             "name":"SNAP Something Else3",
+             "id":"fn-composition",
+             "description":"A guide to building UI with pure functions and function composition in React",
+             "url":"https://www.google.com/"
+          }
+       ]
+    }
+ ]

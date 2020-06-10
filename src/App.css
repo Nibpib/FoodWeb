@@ -1,0 +1,48 @@
+.center-vert-horz{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+.fill-height{
+    height:50vh;
+}
+.roboto{
+  font-family: 'Roboto', sans-serif;
+}
+.large{
+  font-size:2.7vw;
+  }
+.center-vert{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 400px;
+  }
+.padding-left{
+  padding-left: 8%;
+}
+.padding-right{
+  padding-right: 8%;
+}
+.padding-top{
+  padding-top: 8%;
+}
+.padding-bottom{
+  padding-top: 8%;
+}
+.hide-overflow{
+  overflow: hidden;
+  max-width: 45%;
+  height: auto;
+}
+.gray{
+  color:gray
+}
+.space-top{
+  margin-top:10vh;
+}
+.hide-overflow2{
+  overflow: hidden;
+  max-width: 50%;
+  height: auto;
+}

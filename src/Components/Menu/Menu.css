@@ -1,0 +1,9 @@
+.white{
+    background-color: white;
+}
+.poppins-bold{
+    font-family: 'Open Sans', sans-serif;
+}
+.pull-right{
+    float:right !important
+}
